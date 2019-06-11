@@ -1,0 +1,17 @@
+Handle Click Events with JavaScript using the onclick property
+
+Change Text with click Events
+
+Get JSON with the JavaScript XMLHttpRequest Method
+
+Access the JSON Data from an API
+
+Convert JSON Data to HTML
+
+Render Images from Data Sources
+
+Pre-filter JSON to Get the Data You Need
+
+Get Geolocation Data to Find A User's GPS Coordinates
+
+Post Data with the JavaScript XMLHttpRequest Method
