@@ -67,37 +67,37 @@ Create Texture by Adding a Subtle Pattern as a Background Image
 Use the CSS Transform scale Property to Change the Size of an Element
 
 Use the CSS Transform scale Property to Scale an Element on Hover
-Not Passed
+
 Use the CSS Transform Property skewX to Skew an Element Along the X-Axis
-Not Passed
+
 Use the CSS Transform Property skewY to Skew an Element Along the Y-Axis
-Not Passed
+
 Create a Graphic Using CSS
-Not Passed
+
 Create a More Complex Shape Using CSS and HTML
-Not Passed
+
 Learn How the CSS @keyframes and animation Properties Work
-Not Passed
+
 Use CSS Animation to Change the Hover State of a Button
-Not Passed
+
 Modify Fill Mode of an Animation
-Not Passed
+
 Create Movement Using CSS Animation
-Not Passed
+
 Create Visual Direction by Fading an Element from Left to Right
-Not Passed
+
 Animate Elements Continually Using an Infinite Animation Count
-Not Passed
+
 Make a CSS Heartbeat using an Infinite Animation Count
-Not Passed
+
 Animate Elements at Variable Rates
-Not Passed
+
 Animate Multiple Elements at Variable Rates
-Not Passed
+
 Change Animation Timing with Keywords
-Not Passed
+
 Learn How Bezier Curves Work
-Not Passed
+
 Use a Bezier Curve to Move a Graphic
-Not Passed
+
 Make Motion More Natural Using a Bezier Curve
